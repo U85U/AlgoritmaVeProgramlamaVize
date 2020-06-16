@@ -1,0 +1,9 @@
+Soru  2-Yapı kullanarak, otoparktaki araçları takip etmeye yönelik bir program geliştirmeniz 
+amaçlanmaktadır. Araçların genel özellikleri ayrı bir yapıda tutulacaktır. Genel özellik bilgileri: plaka, modelve renktir. Araçların genel özellikleri dışında giriş saati bilgisi 
+de  (örn: 12:42:55 şeklinde temsil edilmek üzere) bulunmaktadır.(Farklı yapılar kullanmalısınız)
+Otoparkın maksimum araç kapasitesi 1000dir. Otoparka 5 araç girişiyapıp, bilgilerini ekranda 
+listeleyiniz.
+Araç  ekleme  ve  tüm  araçları  listeleme  için  aşağıda  prototipleri  verilen fonksiyonlar kullanılmalıdır:
+
+	void AracEkle()
+	void AraclariListele()
